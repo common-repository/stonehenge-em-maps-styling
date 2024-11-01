@@ -1,0 +1,247 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Events Manager – Google Maps Styling (Add-on) v2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2018-09-25 21:21:38+0000\n"
+"Last-Translator: stoneh1q <info@stonehengecreations.nl>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Dutch\n"
+"X-Poedit-Country: NETHERLANDS\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#. translators: plugin header field 'Name'
+#: stonehenge-em-maps-styling.php:0
+#@ stonehenge-em-maps-styling
+msgid "Events Manager – Google Maps Styling (Add-on)"
+msgstr "Events Manager – Google Maps Styling (Add-on)"
+
+#. translators: plugin header field 'PluginURI'
+#: stonehenge-em-maps-styling.php:0
+#@ stonehenge-em-maps-styling
+msgid "https://wordpress.org/plugins/stonehenge-em-maps-styling/"
+msgstr "https://wordpress.org/plugins/stonehenge-em-maps-styling/"
+
+#. translators: plugin header field 'Description'
+#: stonehenge-em-maps-styling.php:0
+#@ stonehenge-em-maps-styling
+msgid "&#x1F4CD; Style your Google Maps within Events Manager the way YOU like them! Select Map Type, Zoom Level, Controls and more."
+msgstr "&#x1F4CD; Toon Google Maps vanuit Events Manager op de manier zoals JIJ dat wilt! Selecteer kaarttype, zoom-niveau, bediening en meer."
+
+#. translators: plugin header field 'Author'
+#: stonehenge-em-maps-styling.php:0
+#@ stonehenge-em-maps-styling
+msgid "Stonehenge Creations"
+msgstr "Stonehenge Creations"
+
+#. translators: plugin header field 'AuthorURI'
+#: stonehenge-em-maps-styling.php:0
+#@ stonehenge-em-maps-styling
+msgid "https://www.stonehengecreations.nl/"
+msgstr "https://www.stonehengecreations.nl/"
+
+#: stonehenge-em-maps-styling.php:98
+#@ stonehenge-em-maps-styling
+msgid "Set Zoom Level"
+msgstr "Stel het Zoom-niveau in"
+
+#: stonehenge-em-maps-styling.php:101
+#@ stonehenge-em-maps-styling
+msgid "Set the Zoom level from 1 to 20. <br><br>The Events Manager default = 15."
+msgstr "Stel het Zoom-niveau in van 1 tot 20. <br><br>Events Managers standaard = 15."
+
+#: stonehenge-em-maps-styling.php:106
+#@ stonehenge-em-maps-styling
+msgid "Disable Map Type Switching"
+msgstr "Schakel wisselen van kaarttype uit."
+
+#: stonehenge-em-maps-styling.php:109
+#@ stonehenge-em-maps-styling
+msgid "Select \"yes\" if you want to prevent your visitors from changing the map type."
+msgstr ""
+
+#: stonehenge-em-maps-styling.php:114
+#@ stonehenge-em-maps-styling
+msgid "Disable Mouse Scrollwheel"
+msgstr "Schakel de scroll-knop van de muis uit"
+
+#: stonehenge-em-maps-styling.php:117
+#@ stonehenge-em-maps-styling
+msgid "Select \"yes\" if you want to disable the mouse scrollwheel."
+msgstr ""
+
+#: stonehenge-em-maps-styling.php:122
+#@ stonehenge-em-maps-styling
+msgid "Disable double click to Zoom"
+msgstr "Schakel ''dubbel klikken om te zoomen'' uit"
+
+#: stonehenge-em-maps-styling.php:125
+#@ stonehenge-em-maps-styling
+msgid "Select \"yes\" if you want to disable zooming in and out by double clicking."
+msgstr ""
+
+#: stonehenge-em-maps-styling.php:130
+#@ stonehenge-em-maps-styling
+msgid "Hide Map Controls"
+msgstr "Verberg Kaart-bediening"
+
+#: stonehenge-em-maps-styling.php:133
+#@ stonehenge-em-maps-styling
+msgid "Select \"yes\" if you want to hide the controls like street view, zoom controls etc."
+msgstr ""
+
+#: stonehenge-em-maps-styling.php:138
+#@ stonehenge-em-maps-styling
+msgid "Hide Footer clutter"
+msgstr "Verberg Footer-vulling"
+
+#: stonehenge-em-maps-styling.php:141
+#@ stonehenge-em-maps-styling
+msgid "Select \"yes\" if you want to hide the clutter in the footer that on-one ever uses."
+msgstr ""
+
+#: stonehenge-em-maps-styling.php:146
+#@ stonehenge-em-maps-styling
+msgid "Hide Full Screen Layer"
+msgstr "Verberg ''Volledig Scherm''-optie"
+
+#: stonehenge-em-maps-styling.php:149
+#@ stonehenge-em-maps-styling
+msgid "Select \"yes\" if you want to hide the Full Screen button."
+msgstr ""
+
+#: stonehenge-em-maps-styling.php:154
+#@ stonehenge-em-maps-styling
+msgid "Block Roboto Font"
+msgstr "Blokkeer Roboto-lettertype"
+
+#: stonehenge-em-maps-styling.php:157
+#@ stonehenge-em-maps-styling
+msgid "By default the text in the balloon uses Roboto. You can prevent this online font from being loaded, saving you precious PageSpeed load.<br><br><strong>IMPORTANT:</strong><br>Only select \"yes\" if you are not using other Google Fonts."
+msgstr ""
+
+#: stonehenge-em-maps-styling.php:162
+#@ stonehenge-em-maps-styling
+msgid "Localize Map"
+msgstr "Kaart vertalen"
+
+#: stonehenge-em-maps-styling.php:165
+#@ stonehenge-em-maps-styling
+msgid "By default the Google Map is displayed in the language of the user's browser. So, if your blog is in English, but the visitor's browser is set to Spanish, the map will be in Spanish.<br><br><em>A big benefit on public computers.</em>"
+msgstr ""
+
+#: stonehenge-em-maps-styling.php:191
+#@ stonehenge-em-maps-styling
+msgid "Your Google Maps have been beautified."
+msgstr "Je Google Maps zijn nu nog mooier."
+
+#: stonehenge-em-maps-styling.php:200
+#@ stonehenge-em-maps-styling
+msgid "Style your Event Maps"
+msgstr "Stijl je Evenement Kaarten"
+
+#: stonehenge-em-maps-styling.php:204
+#: stonehenge-em-maps-styling.php:221
+#@ stonehenge-em-maps-styling
+msgid "Roadmap"
+msgstr "Wegenkaart"
+
+#: stonehenge-em-maps-styling.php:204
+#@ stonehenge-em-maps-styling
+msgid "displays the default road map view. (This is the default map type)"
+msgstr "toont de standaard wegenkaart. (Dit is het standaard kaarttype)"
+
+#: stonehenge-em-maps-styling.php:205
+#: stonehenge-em-maps-styling.php:222
+#@ stonehenge-em-maps-styling
+msgid "Hybrid"
+msgstr "Hybride"
+
+#: stonehenge-em-maps-styling.php:205
+#@ stonehenge-em-maps-styling
+msgid "displays a mixture of normal and satellite views."
+msgstr "toont een mengeling van normale en satellietbeelden."
+
+#: stonehenge-em-maps-styling.php:206
+#: stonehenge-em-maps-styling.php:223
+#@ stonehenge-em-maps-styling
+msgid "Satellite"
+msgstr "Satelliet"
+
+#: stonehenge-em-maps-styling.php:206
+#@ stonehenge-em-maps-styling
+msgid "displays Google Earth satellite images."
+msgstr "toont satelliet-afbeeldingen van Google Earth."
+
+#: stonehenge-em-maps-styling.php:207
+#: stonehenge-em-maps-styling.php:224
+#@ stonehenge-em-maps-styling
+msgid "Terrain"
+msgstr "Terrein"
+
+#: stonehenge-em-maps-styling.php:207
+#@ stonehenge-em-maps-styling
+msgid "displays a physical map based on terrain information."
+msgstr "toont een fysieke kaart, gebaseerd op terreininformatie."
+
+#: stonehenge-em-maps-styling.php:215
+#@ stonehenge-em-maps-styling
+msgid "Google Maps API Key"
+msgstr "Google Maps API-sleutel"
+
+#: stonehenge-em-maps-styling.php:219
+#@ stonehenge-em-maps-styling
+msgid "Select the Map Type"
+msgstr "Selecteer de kaartsoort"
+
+#: stonehenge-em-maps-styling.php:232
+#@ stonehenge-em-maps-styling
+msgid "Explain"
+msgstr "Uitleg"
+
+#: stonehenge-em-maps-styling.php:233
+#@ stonehenge-em-maps-styling
+msgid "No"
+msgstr "Nee"
+
+#: stonehenge-em-maps-styling.php:234
+#@ stonehenge-em-maps-styling
+msgid "Yes"
+msgstr "Ja"
+
+#: stonehenge-em-maps-styling.php:314
+#@ stonehenge-em-maps-styling
+msgid "Plug-in Support"
+msgstr "Plugin-ondersteuning"
+
+#: stonehenge-em-maps-styling.php:315
+#@ stonehenge-em-maps-styling
+msgid "Wordpress Profile"
+msgstr "WordPress-profiel"
+
+#: stonehenge-em-maps-styling.php:316
+#@ stonehenge-em-maps-styling
+msgid "Donate"
+msgstr "Doneren"
+
+#. translators: plugin header field 'Version'
+#: stonehenge-em-maps-styling.php:0
+#@ stonehenge-em-maps-styling
+msgid "2.0"
+msgstr "2.0"
+
+#: stonehenge-em-maps-styling.php:194
+#@ default
+msgid "Version"
+msgstr "Versie"
+
